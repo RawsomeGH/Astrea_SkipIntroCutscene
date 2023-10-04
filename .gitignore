@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Don't check in other people's DLLs
+/src/Astrea_SkipIntroCutscene/lib/*.dll
